@@ -1,0 +1,76 @@
+*** COUNTS ***
+71×2 DataFrame
+ Row │ PT                                 N
+     │ String?                            Int64
+─────┼──────────────────────────────────────────
+   1 │ Journal Article                    95326
+   2 │ Research Support, Non-U.S. Gov't   22209
+   3 │ Review                             21405
+   4 │ Comment                            12909
+   5 │ Letter                             11965
+   6 │ Editorial                           5917
+   7 │ Case Reports                        4371
+   8 │ Observational Study                 3245
+   9 │ Systematic Review                   3240
+  10 │ Research Support, N.I.H., Extram…   2686
+  11 │ Multicenter Study                   1652
+  12 │ Research Support, U.S. Gov't, No…   1215
+  13 │ News                                1038
+  14 │ Randomized Controlled Trial          670
+  15 │ Research Support, U.S. Gov't, P.…    455
+  16 │ Practice Guideline                   351
+  17 │ Introductory Journal Article         330
+  18 │ Video-Audio Media                    311
+  19 │ Validation Study                     306
+  20 │ Personal Narrative                   287
+  21 │ Meta-Analysis                        253
+  22 │ Preprint                             168
+  23 │ Research Support, N.I.H., Intram…    166
+  24 │ Interview                            161
+  25 │ Published Erratum                     84
+  26 │ Historical Article                    69
+  27 │ Retracted Publication                 55
+  28 │ Portrait                              51
+  29 │ Congress                              46
+  30 │ Patient Education Handout             39
+  31 │ Webcast                               24
+  32 │ missing                               22
+  33 │ Technical Report                      20
+  34 │ English Abstract                      20
+  35 │ England                               11
+  36 │ Guideline                             11
+  37 │ Book Chapter                           9
+  38 │ Netherlands                            9
+  39 │ United States                          8
+  40 │ Clinical Trial                         7
+  41 │ Pragmatic Clinical Trial               6
+  42 │ Twin Study                             6
+  43 │ Address                                5
+  44 │ Legal Case                             5
+  45 │ Lecture                                4
+  46 │ Switzerland                            4
+  47 │ Germany                                3
+  48 │ N/A                                    3
+  49 │ Classical Article                      2
+  50 │ India                                  2
+  51 │ Clinical Conference                    2
+  52 │ SubString{String}["*COH-FIT", "*…      1
+  53 │ SubString{String}["Turkson-Ocran…      1
+  54 │ Book                                   1
+  55 │ SubString{String}["Rente, Arthur…      1
+  56 │ Dictionary                             1
+  57 │ Bibliography                           1
+  58 │ France                                 1
+  59 │ SubString{String}["*COVID-19", "…      1
+  60 │ SubString{String}["*Adolescents"…      1
+  61 │ Comparative Study                      1
+  62 │ Interactive Tutorial                   1
+  63 │ Clinical Study                         1
+  64 │ SubString{String}["COVID-19", "e…      1
+  65 │ Spain                                  1
+  66 │ Brazil                                 1
+  67 │ SubString{String}["COVID-19, vir…      1
+  68 │ SubString{String}["COVID-19", "C…      1
+  69 │ SubString{String}["*Coronavirus"…      1
+  70 │ SubString{String}["*Bariatric su…      1
+  71 │ Retraction of Publication              1

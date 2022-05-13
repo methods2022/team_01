@@ -1,0 +1,24 @@
+*** COUNTS ***
+19×2 DataFrame
+ Row │ PT                                 N
+     │ String                             Int64
+─────┼──────────────────────────────────────────
+   1 │ Journal Article                      275
+   2 │ Review                               192
+   3 │ Case Reports                         132
+   4 │ Comment                               52
+   5 │ Research Support, Non-U.S. Gov't      45
+   6 │ Letter                                32
+   7 │ Editorial                             20
+   8 │ Systematic Review                     16
+   9 │ Observational Study                   12
+  10 │ Multicenter Study                     11
+  11 │ Video-Audio Media                      7
+  12 │ Research Support, N.I.H., Extram…      4
+  13 │ Practice Guideline                     3
+  14 │ Research Support, U.S. Gov't, No…      3
+  15 │ Meta-Analysis                          3
+  16 │ News                                   2
+  17 │ Personal Narrative                     1
+  18 │ Interview                              1
+  19 │ Research Support, N.I.H., Intram…      1

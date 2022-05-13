@@ -1,0 +1,36 @@
+*** COUNTS ***
+31×2 DataFrame
+ Row │ PL                      N
+     │ String31                Int64
+─────┼───────────────────────────────
+   1 │ United States             321
+   2 │ England                   197
+   3 │ Switzerland                55
+   4 │ Netherlands                47
+   5 │ Germany                    44
+   6 │ Italy                      21
+   7 │ Poland                     14
+   8 │ Spain                      13
+   9 │ India                      11
+  10 │ France                     10
+  11 │ Australia                   8
+  12 │ Canada                      8
+  13 │ Japan                       8
+  14 │ Russia (Federation)         7
+  15 │ Brazil                      6
+  16 │ Singapore                   5
+  17 │ Korea (South)               5
+  18 │ United Arab Emirates        4
+  19 │ Ireland                     4
+  20 │ Iran                        4
+  21 │ Uganda                      4
+  22 │ China                       3
+  23 │ Turkey                      3
+  24 │ Mexico                      2
+  25 │ New Zealand                 2
+  26 │ Austria                     1
+  27 │ Sweden                      1
+  28 │ Pakistan                    1
+  29 │ Bosnia and Herzegovina      1
+  30 │ Argentina                   1
+  31 │ South Africa                1

@@ -1,0 +1,344 @@
+*** COUNTS ***
+339×2 DataFrame
+ Row │ TA                                 N
+     │ String                             Int64
+─────┼──────────────────────────────────────────
+   1 │ Cureus                                35
+   2 │ Circulation                           20
+   3 │ Eur Heart J Case Rep                  18
+   4 │ ESC Heart Fail                        17
+   5 │ Eur Heart J                           14
+   6 │ JAMA Cardiol                          13
+   7 │ JACC Cardiovasc Imaging               12
+   8 │ Front Cardiovasc Med                  11
+   9 │ BMJ Case Rep                           9
+  10 │ J Am Coll Cardiol                      9
+  11 │ Cardiol Young                          9
+  12 │ Int J Cardiol                          8
+  13 │ Clin Res Cardiol                       7
+  14 │ Am J Emerg Med                         7
+  15 │ Eur Heart J Cardiovasc Imaging         7
+  16 │ Rev Esp Cardiol (Engl Ed)              7
+  17 │ JACC Case Rep                          6
+  18 │ Vaccine                                6
+  19 │ Echocardiography                       6
+  20 │ Pediatr Infect Dis J                   6
+  21 │ N Engl J Med                           6
+  22 │ Circ Cardiovasc Imaging                5
+  23 │ Heart Lung Circ                        5
+  24 │ Ann Med Surg (Lond)                    5
+  25 │ BMJ                                    5
+  26 │ J Cardiovasc Magn Reson                5
+  27 │ Trends Cardiovasc Med                  5
+  28 │ Heart Lung                             5
+  29 │ J Pediatr                              5
+  30 │ Int J Cardiovasc Imaging               5
+  31 │ Pediatrics                             5
+  32 │ Cardiovasc Res                         5
+  33 │ Circ J                                 5
+  34 │ Pediatr Emerg Care                     5
+  35 │ Kardiol Pol                            5
+  36 │ Am J Cardiol                           5
+  37 │ Cardiovasc Revasc Med                  5
+  38 │ Can J Cardiol                          5
+  39 │ Eur Rev Med Pharmacol Sci              5
+  40 │ Clin Case Rep                          4
+  41 │ BMC Cardiovasc Disord                  4
+  42 │ G Ital Cardiol (Rome)                  4
+  43 │ Circ Heart Fail                        4
+  44 │ Kardiologiia                           4
+  45 │ Int J Infect Dis                       4
+  46 │ J Korean Med Sci                       4
+  47 │ Radiology                              4
+  48 │ Monaldi Arch Chest Dis                 4
+  49 │ Open Heart                             4
+  50 │ Pan Afr Med J                          4
+  51 │ QJM                                    4
+  52 │ Cardiovasc Pathol                      4
+  53 │ Eur J Heart Fail                       4
+  54 │ Br J Sports Med                        4
+  55 │ Infection                              4
+  56 │ Ann Cardiol Angeiol (Paris)            4
+  57 │ Front Immunol                          4
+  58 │ J Clin Med                             4
+  59 │ Pediatr Cardiol                        4
+  60 │ Cardiol J                              4
+  61 │ Heart                                  4
+  62 │ Science                                3
+  63 │ Diagnostics (Basel)                    3
+  64 │ J Med Cases                            3
+  65 │ JACC Heart Fail                        3
+  66 │ JAMA                                   3
+  67 │ Curr Treat Options Cardiovasc Med      3
+  68 │ Chest                                  3
+  69 │ Eur Cardiol                            3
+  70 │ Eur J Clin Invest                      3
+  71 │ Eur J Pediatr                          3
+  72 │ Am J Med Sci                           3
+  73 │ Rheumatol Int                          3
+  74 │ Egypt Heart J                          3
+  75 │ Future Cardiol                         3
+  76 │ Curr Cardiol Rep                       3
+  77 │ Life Sci                               3
+  78 │ Herz                                   3
+  79 │ Glob Heart                             3
+  80 │ Hellenic J Cardiol                     3
+  81 │ HeartRhythm Case Rep                   3
+  82 │ JACC Basic Transl Sci                  3
+  83 │ Methodist Debakey Cardiovasc J         3
+  84 │ Expert Rev Cardiovasc Ther             3
+  85 │ Eur J Case Rep Intern Med              3
+  86 │ Children (Basel)                       3
+  87 │ Cardiol Rev                            3
+  88 │ J Pediatric Infect Dis Soc             3
+  89 │ Int J Environ Res Public Health        3
+  90 │ Card Electrophysiol Clin               3
+  91 │ Am Heart J Plus                        3
+  92 │ MMWR Morb Mortal Wkly Rep              3
+  93 │ Heart Rhythm                           3
+  94 │ Anatol J Cardiol                       3
+  95 │ Travel Med Infect Dis                  2
+  96 │ Pacing Clin Electrophysiol             2
+  97 │ J Int Med Res                          2
+  98 │ Hamostaseologie                        2
+  99 │ Curr Pharm Des                         2
+ 100 │ Heart Fail Rev                         2
+ 101 │ Cardiol Ther                           2
+ 102 │ J Magn Reson Imaging                   2
+ 103 │ Indian J Pediatr                       2
+ 104 │ Resuscitation                          2
+ 105 │ J Crit Care Med (Targu Mures)          2
+ 106 │ Curr Probl Cardiol                     2
+ 107 │ Radiol Case Rep                        2
+ 108 │ IDCases                                2
+ 109 │ Lancet                                 2
+ 110 │ Heart Views                            2
+ 111 │ Rev Cardiovasc Med                     2
+ 112 │ J Card Fail                            2
+ 113 │ Rev Med Virol                          2
+ 114 │ CJC Open                               2
+ 115 │ Am J Case Rep                          2
+ 116 │ Acta Cardiol                           2
+ 117 │ Clin Med Insights Cardiol              2
+ 118 │ Fetal Pediatr Pathol                   2
+ 119 │ Swiss Med Wkly                         2
+ 120 │ Prog Pediatr Cardiol                   2
+ 121 │ Pol Arch Intern Med                    2
+ 122 │ Front Med (Lausanne)                   2
+ 123 │ JAMA Intern Med                        2
+ 124 │ Rev Assoc Med Bras (1992)              2
+ 125 │ J Cardiovasc Pharmacol Ther            2
+ 126 │ J Am Coll Emerg Physicians Open        2
+ 127 │ J Prim Care Community Health           2
+ 128 │ Arkh Patol                             2
+ 129 │ Viruses                                2
+ 130 │ Vaccines (Basel)                       2
+ 131 │ Ann Intern Med                         2
+ 132 │ Card Fail Rev                          2
+ 133 │ J Investig Med High Impact Case …      2
+ 134 │ Sports Health                          2
+ 135 │ J Card Surg                            2
+ 136 │ Nat Med                                2
+ 137 │ SN Compr Clin Med                      2
+ 138 │ Neth Heart J                           2
+ 139 │ Diabetes Metab Syndr                   2
+ 140 │ Int J Legal Med                        2
+ 141 │ J Cardiol Cases                        2
+ 142 │ Indian Heart J                         2
+ 143 │ Hipertens Riesgo Vasc                  2
+ 144 │ AJR Am J Roentgenol                    2
+ 145 │ J Mol Cell Cardiol                     2
+ 146 │ Intern Emerg Med                       2
+ 147 │ J Nucl Cardiol                         2
+ 148 │ R I Med J (2013)                       2
+ 149 │ Medicina (Kaunas)                      2
+ 150 │ Am J Med Case Rep                      2
+ 151 │ Clin Infect Dis                        2
+ 152 │ J R Soc Med                            1
+ 153 │ Med J Aust                             1
+ 154 │ J Electrocardiol                       1
+ 155 │ Curr Opin Anaesthesiol                 1
+ 156 │ Wien Klin Wochenschr                   1
+ 157 │ Biomed Pharmacother                    1
+ 158 │ Anaesth Crit Care Pain Med             1
+ 159 │ Ann Emerg Med                          1
+ 160 │ Platelets                              1
+ 161 │ JCI Insight                            1
+ 162 │ Ter Arkh                               1
+ 163 │ Pediatr Pulmonol                       1
+ 164 │ Med J Islam Repub Iran                 1
+ 165 │ Rev Neurosci                           1
+ 166 │ Singapore Med J                        1
+ 167 │ Open Forum Infect Dis                  1
+ 168 │ Stem Cell Reports                      1
+ 169 │ Antioxidants (Basel)                   1
+ 170 │ Phys Ther                              1
+ 171 │ J Med Syst                             1
+ 172 │ Am J Clin Pathol                       1
+ 173 │ PLoS One                               1
+ 174 │ Tex Heart Inst J                       1
+ 175 │ Arch Cardiol Mex                       1
+ 176 │ Curr Pediatr Rep                       1
+ 177 │ Annu Rev Med                           1
+ 178 │ Expert Rev Vaccines                    1
+ 179 │ Am J Cardiovasc Drugs                  1
+ 180 │ Epidemiol Infect                       1
+ 181 │ Int J Clin Pract                       1
+ 182 │ Int Arch Allergy Immunol               1
+ 183 │ Respir Med Case Rep                    1
+ 184 │ Transplant Proc                        1
+ 185 │ J Cell Mol Med                         1
+ 186 │ Leukemia                               1
+ 187 │ Euro Surveill                          1
+ 188 │ Signal Transduct Target Ther           1
+ 189 │ J Cardiovasc Electrophysiol            1
+ 190 │ Anaesthesist                           1
+ 191 │ Biomedicines                           1
+ 192 │ Radiol Med                             1
+ 193 │ Pediatr Ann                            1
+ 194 │ Nat Rev Cardiol                        1
+ 195 │ Rheumatology (Oxford)                  1
+ 196 │ Stem Cell Res                          1
+ 197 │ Occup Med (Lond)                       1
+ 198 │ Arch Med Sci                           1
+ 199 │ Int J Public Health                    1
+ 200 │ BMJ Evid Based Med                     1
+ 201 │ Einstein (Sao Paulo)                   1
+ 202 │ Curr Probl Cancer Case Rep             1
+ 203 │ Radiol Cardiothorac Imaging            1
+ 204 │ Pathol Int                             1
+ 205 │ Recenti Prog Med                       1
+ 206 │ Cardiovasc Ultrasound                  1
+ 207 │ Clin Nucl Med                          1
+ 208 │ Semin Perinatol                        1
+ 209 │ J Infect Chemother                     1
+ 210 │ Med Lett Drugs Ther                    1
+ 211 │ Int J Cardiol Heart Vasc               1
+ 212 │ Arq Bras Cardiol                       1
+ 213 │ Indian J Med Res                       1
+ 214 │ Ochsner J                              1
+ 215 │ Am J Cardiovasc Dis                    1
+ 216 │ J Clin Lab Anal                        1
+ 217 │ J Intern Med                           1
+ 218 │ Prog Cardiovasc Dis                    1
+ 219 │ Curr Oncol Rep                         1
+ 220 │ Clin Exp Emerg Med                     1
+ 221 │ Rev Soc Bras Med Trop                  1
+ 222 │ Eur Heart J Qual Care Clin Outco…      1
+ 223 │ Proc (Bayl Univ Med Cent)              1
+ 224 │ Ir J Med Sci                           1
+ 225 │ Sports Med Health Sci                  1
+ 226 │ J Pak Med Assoc                        1
+ 227 │ Front Pediatr                          1
+ 228 │ Arch Cardiovasc Dis                    1
+ 229 │ Bosn J Basic Med Sci                   1
+ 230 │ Vet Rec                                1
+ 231 │ S D Med                                1
+ 232 │ World J Radiol                         1
+ 233 │ J Innov Card Rhythm Manag              1
+ 234 │ J Oncol Pharm Pract                    1
+ 235 │ Minerva Anestesiol                     1
+ 236 │ Drug Discov Today                      1
+ 237 │ Med (N Y)                              1
+ 238 │ Med Clin (Barc)                        1
+ 239 │ Pediatr Rheumatol Online J             1
+ 240 │ High Blood Press Cardiovasc Prev       1
+ 241 │ Cir Cir                                1
+ 242 │ Front Vet Sci                          1
+ 243 │ Sci Sports                             1
+ 244 │ Biol Chem                              1
+ 245 │ J Paediatr Child Health                1
+ 246 │ Caspian J Intern Med                   1
+ 247 │ Handb Clin Neurol                      1
+ 248 │ Pathol Res Pract                       1
+ 249 │ Curr Cardiol Rev                       1
+ 250 │ Indian Pediatr                         1
+ 251 │ Infect Dis Rep                         1
+ 252 │ J Med Virol                            1
+ 253 │ Eur J Intern Med                       1
+ 254 │ Rev Med Interne                        1
+ 255 │ Europace                               1
+ 256 │ JACC Clin Electrophysiol               1
+ 257 │ J Emerg Med                            1
+ 258 │ J Clin Immunol                         1
+ 259 │ Glob Pediatr Health                    1
+ 260 │ Metabol Open                           1
+ 261 │ Circ Res                               1
+ 262 │ Am Heart J                             1
+ 263 │ J Investig Allergol Clin Immunol       1
+ 264 │ Eur Heart J Acute Cardiovasc Care      1
+ 265 │ Zhonghua Jie He He Hu Xi Za Zhi        1
+ 266 │ Future Virol                           1
+ 267 │ EBioMedicine                           1
+ 268 │ Postgrad Med J                         1
+ 269 │ Int J Mol Sci                          1
+ 270 │ Rev Clin Esp (Barc)                    1
+ 271 │ Br J Anaesth                           1
+ 272 │ Medicina (B Aires)                     1
+ 273 │ J Pediatr Intensive Care               1
+ 274 │ Med Hypotheses                         1
+ 275 │ Cardiovasc J Afr                       1
+ 276 │ Eur Radiol                             1
+ 277 │ Elife                                  1
+ 278 │ Acad Emerg Med                         1
+ 279 │ Clin Imaging                           1
+ 280 │ JAMA Neurol                            1
+ 281 │ J Pathol Clin Res                      1
+ 282 │ Internist (Berl)                       1
+ 283 │ Medicine (Baltimore)                   1
+ 284 │ Genes (Basel)                          1
+ 285 │ Pediatr Radiol                         1
+ 286 │ Cells                                  1
+ 287 │ CASE (Phila)                           1
+ 288 │ Diagn Pathol                           1
+ 289 │ Monatsschr Kinderheilkd                1
+ 290 │ Endocrinol Diabetes Metab              1
+ 291 │ Braz J Cardiovasc Surg                 1
+ 292 │ Curr Opin Cardiol                      1
+ 293 │ World J Pediatr                        1
+ 294 │ Am J Pathol                            1
+ 295 │ Health Sci Rep                         1
+ 296 │ Lancet Child Adolesc Health            1
+ 297 │ Transl Res                             1
+ 298 │ Magn Reson Imaging                     1
+ 299 │ Acta Radiol                            1
+ 300 │ Rofo                                   1
+ 301 │ Ann Acad Med Singap                    1
+ 302 │ Intern Med                             1
+ 303 │ Can Fam Physician                      1
+ 304 │ J Cardiovasc Thorac Res                1
+ 305 │ J Cardiovasc Dev Dis                   1
+ 306 │ Eur J Immunol                          1
+ 307 │ Arch Acad Emerg Med                    1
+ 308 │ Ann Pediatr Cardiol                    1
+ 309 │ Front Biosci (Landmark Ed)             1
+ 310 │ Healthcare (Basel)                     1
+ 311 │ Cleve Clin J Med                       1
+ 312 │ Curr Clin Microbiol Rep                1
+ 313 │ Semin Cardiothorac Vasc Anesth         1
+ 314 │ Trends Endocrinol Metab                1
+ 315 │ Lancet Respir Med                      1
+ 316 │ Radiologe                              1
+ 317 │ Basic Res Cardiol                      1
+ 318 │ World J Pediatr Congenit Heart S…      1
+ 319 │ Neuropediatrics                        1
+ 320 │ Ann Card Anaesth                       1
+ 321 │ Clin Microbiol Infect                  1
+ 322 │ J Pers Med                             1
+ 323 │ Am J Obstet Gynecol                    1
+ 324 │ Ann Intensive Care                     1
+ 325 │ Ann Biol Clin (Paris)                  1
+ 326 │ Hong Kong Med J                        1
+ 327 │ J Thorac Imaging                       1
+ 328 │ Rev Esp Cardiol                        1
+ 329 │ Mod Pathol                             1
+ 330 │ J Community Hosp Intern Med Pers…      1
+ 331 │ Crit Pathw Cardiol                     1
+ 332 │ Clin Med Insights Case Rep             1
+ 333 │ J Med Case Rep                         1
+ 334 │ Cell Rep Med                           1
+ 335 │ Virus Res                              1
+ 336 │ J Cardiol                              1
+ 337 │ Prat Anesth Reanim                     1
+ 338 │ Eur J Nucl Med Mol Imaging             1
+ 339 │ Recent Adv Antiinfect Drug Discov      1

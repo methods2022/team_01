@@ -1,0 +1,128 @@
+*** COUNTS ***
+123×2 DataFrame
+ Row │ PL                                 N
+     │ String?                            Int64
+─────┼──────────────────────────────────────────
+   1 │ United States                      63831
+   2 │ England                            48032
+   3 │ Switzerland                        20843
+   4 │ Netherlands                        14231
+   5 │ Germany                             6509
+   6 │ Canada                              3551
+   7 │ India                               3484
+   8 │ Italy                               3484
+   9 │ Spain                               2302
+  10 │ China                               2241
+  11 │ Australia                           2232
+  12 │ France                              2085
+  13 │ Brazil                              1899
+  14 │ Ireland                             1542
+  15 │ New Zealand                         1182
+  16 │ Japan                               1181
+  17 │ Korea (South)                       1113
+  18 │ Poland                               899
+  19 │ Denmark                              739
+  20 │ Iran                                 714
+  21 │ Scotland                             713
+  22 │ Singapore                            620
+  23 │ Turkey                               601
+  24 │ United Arab Emirates                 572
+  25 │ Sweden                               498
+  26 │ Uganda                               478
+  27 │ Mexico                               412
+  28 │ South Africa                         381
+  29 │ Pakistan                             368
+  30 │ Russia (Federation)                  364
+  31 │ Norway                               329
+  32 │ Saudi Arabia                         310
+  33 │ Greece                               286
+  34 │ Austria                              257
+  35 │ Argentina                            208
+  36 │ Chile                                205
+  37 │ Croatia                              204
+  38 │ Nepal                                183
+  39 │ Egypt                                165
+  40 │ Portugal                             156
+  41 │ Hungary                              131
+  42 │ Israel                               125
+  43 │ Malaysia                             124
+  44 │ Romania                              118
+  45 │ Nigeria                              107
+  46 │ Czech Republic                       104
+  47 │ China (Republic : 1949- )            100
+  48 │ Slovakia                              92
+  49 │ Peru                                  80
+  50 │ Colombia                              77
+  51 │ Bosnia and Herzegovina                67
+  52 │ Belgium                               64
+  53 │ Indonesia                             56
+  54 │ Bangladesh                            43
+  55 │ Tunisia                               42
+  56 │ Oman                                  41
+  57 │ Philippines                           34
+  58 │ Ghana                                 33
+  59 │ missing                               33
+  60 │ Ethiopia                              31
+  61 │ Thailand                              30
+  62 │ Georgia (Republic)                    30
+  63 │ Qatar                                 24
+  64 │ Iceland                               17
+  65 │ Cyprus                                17
+  66 │ Northern Ireland                      17
+  67 │ N/A                                   14
+  68 │ Wales                                 11
+  69 │ Malawi                                11
+  70 │ Finland                                9
+  71 │ Rockville (MD)                         7
+  72 │ North Macedonia                        6
+  73 │ Slovenia                               6
+  74 │ Sudan                                  6
+  75 │ Serbia                                 6
+  76 │ Ukraine                                5
+  77 │ Lithuania                              5
+  78 │ Sri Lanka                              3
+  79 │ Int J Environ Res Public Health        3
+  80 │ Diabetes Metab Syndr                   3
+  81 │ Bulgaria                               2
+  82 │ Kuwait                                 2
+  83 │ PLoS One                               2
+  84 │ Puerto Rico                            2
+  85 │ J Steroid Biochem Mol Biol             1
+  86 │ Ann Med Surg (Lond)                    1
+  87 │ Trials                                 1
+  88 │ Am J Geriatr Psychiatry                1
+  89 │ Research Support, N.I.H., Extram…      1
+  90 │ Virus Res                              1
+  91 │ Nuklearmedizin                         1
+  92 │ Copenhagen (Denmark)                   1
+  93 │ J Nurs Manag                           1
+  94 │ Case Reports                           1
+  95 │ Bethesda (MD)                          1
+  96 │ Psychiatr Q                            1
+  97 │ Estonia                                1
+  98 │ Adv Integr Med                         1
+  99 │ Clin Res Hepatol Gastroenterol         1
+ 100 │ Int J Equity Health                    1
+ 101 │ J Health Commun                        1
+ 102 │ Nurs Hist Rev                          1
+ 103 │ Teach Teach Educ                       1
+ 104 │ Appl Intell (Dordr)                    1
+ 105 │ J Surg Educ                            1
+ 106 │ Acta Diabetol                          1
+ 107 │ Indian J Otolaryngol Head Neck S…      1
+ 108 │ Pulm Pharmacol Ther                    1
+ 109 │ Libya                                  1
+ 110 │ J Clin Virol                           1
+ 111 │ Brisbane (AU)                          1
+ 112 │ Arch Esp Urol                          1
+ 113 │ Inquiry                                1
+ 114 │ Rev Lat Am Enfermagem                  1
+ 115 │ Arch Dermatol Res                      1
+ 116 │ Int Labour Rev                         1
+ 117 │ Infect Dis Health                      1
+ 118 │ Perfusion                              1
+ 119 │ Appetite                               1
+ 120 │ J Pediatr Surg Case Rep                1
+ 121 │ Ital J Pediatr                         1
+ 122 │ J Clin Exp Hepatol                     1
+ 123 │ MEDICC Rev                             1
