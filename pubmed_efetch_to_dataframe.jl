@@ -92,4 +92,4 @@ function analyze_df(input_file, output_file)
 end
 
 #Format: "[search]_studies.txt", "[search]_dataframe.txt"
-analyze_df("myocarditis_not_covid_efetch_output.txt", "myocarditis_not_covid_dataframe.txt")
+analyze_df("covid_efetch_output_180000.txt", "covid_dataframe_180000.txt")
